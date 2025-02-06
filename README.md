@@ -8,6 +8,9 @@ Nous allons travailler dans un premier temps sur les éléments des rayonements 
 
 Liste des rayons solaire
 ----------
-* UVB
+* **UVB**
   * Responsable des coups de soleil
-* UVA 
+  * * Atteinte de l'**epiderm**
+* **UVA** 
+  * Pénètre la peau en profondeur
+  * * Atteinte du **derm**
