@@ -4,7 +4,7 @@
 
 Bienvenu dans le projet **Skin whithout Ray**.
 
->Nous allons travailler dans un premier temps sur les éléments des rayonements solaire étant dangeureux pour la santé et leurs effets
+>Nous allons travailler dans un premier temps sur les éléments des rayonements solaire étant dangeureux pour la santé et leurs effets.
 
 Liste des rayons solaire
 ----------
@@ -14,3 +14,5 @@ Liste des rayons solaire
 * **UVA** 
   * Pénètre la peau en profondeur
   * * Atteinte du **derm**
+
+### UVB 
