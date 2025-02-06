@@ -8,6 +8,6 @@ Nous allons travailler dans un premier temps sur les éléments des rayonements 
 
 Liste des rayons solaire
 ----------
-*UVB
-  *Responsable des coups de soleil
-*UVA 
+* UVB
+  * Responsable des coups de soleil
+* UVA 
